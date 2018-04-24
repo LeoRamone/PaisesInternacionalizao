@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">países</string>
+    <string name="btn_busca">lista</string>
+    <string name="lblContinente">continente: </string>
+    <string-array name="continentes">
+        <item>todos</item>
+        <item>África</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europa</item>
+        <item>Oceanía</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
